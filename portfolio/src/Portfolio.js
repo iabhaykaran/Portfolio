@@ -37,7 +37,7 @@ function Portfolio() {
           />
           <div className="project-details">
             <h3>{project.name}</h3>
-            <button className="open-button">Open Project 🚀</button>
+            <button className="open-button">Open Project</button>
           </div>
         </div>
       ))}

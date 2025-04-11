@@ -11,7 +11,7 @@
 
 .project-card {
   width: 320px;
-  border: 1px solid #e0e0e0;
+  border: 1px solid #49d2ee;
   border-radius: 12px;
   overflow: hidden;
   max-height: 400px;
@@ -53,8 +53,8 @@
 .open-button {
   padding: 10px 20px;
   border: none;
-  background-color: #010101;
-  color: rgb(255, 255, 255);
+  background-color: #3de4db;
+  color: rgb(0, 0, 0);
   border-radius: 6px;
   font-size: 0.9rem;
   cursor: pointer;

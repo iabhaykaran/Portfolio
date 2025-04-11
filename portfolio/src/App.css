@@ -1,5 +1,26 @@
-body{
+* {
+  padding: 0;
+  box-sizing: border-box;
+  margin: 0;
+}
 
-  /* background-color: black; */
+.btn {
+  padding: 10px 5px;
+  color: rgb(0, 0, 0);
+  border: none;
+  /* font-weight: 900; */
+  /* font-size: 50px; */
+  border-radius: 0;
+  background-color: rgb(103, 121, 209);
+}
+.sidebar {
+  color: rgb(255, 255, 255);
+  padding: 20px;
+  width: 300px;
 
+  background-color: rgb(25, 25, 25);
+}
+a {
+  color: aliceblue;
+  text-decoration: none;
 }
