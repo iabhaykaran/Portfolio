@@ -3,6 +3,7 @@
   flex-wrap: wrap;
   gap: 20px;
   padding: 40px;
+  /* max-width: 650px; */
   justify-content: center;
   background-color: #000000;
   min-height: 100vh;
@@ -15,7 +16,7 @@
   border-radius: 12px;
   overflow: hidden;
   max-height: 400px;
-  background: rgb(217, 217, 217);
+  background: rgb(0, 0, 0);
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
   cursor: pointer;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -46,14 +47,14 @@
 
 .project-details h3 {
   margin: 12px 0;
-  color: #000000;
+  color: #ffffff;
   font-size: 1.2rem;
 }
 
 .open-button {
   padding: 10px 20px;
   border: none;
-  background-color: #3de4db;
+  background-color: #d7d7d7;
   color: rgb(0, 0, 0);
   border-radius: 6px;
   font-size: 0.9rem;

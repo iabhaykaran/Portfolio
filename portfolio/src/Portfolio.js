@@ -8,16 +8,19 @@ const projects = [
     thumbnail: "yt.avif",
   },
   {
-    name: "Project Two",
-    link: "https://project-two.vercel.app",
-    thumbnail:
-      "https://image.thum.io/get/width/600/https://project-two.vercel.app",
+    name: "Twitter(X) Clone",
+    link: "  https://twitter-clone-red-ten.vercel.app/     ",
+    thumbnail: "tw.png",
   },
   {
-    name: "Project Three",
-    link: "https://project-three.vercel.app",
-    thumbnail:
-      "https://image.thum.io/get/width/600/https://project-three.vercel.app",
+    name: "Corporate Site",
+    link: "https://elysiumweb-iota.vercel.app/",
+    thumbnail: "s.png",
+  },
+  {
+    name: "Unstop Clone",
+    link: "https://unstop-clone-landing-page.vercel.app/",
+    thumbnail: "Unstop.webp",
   },
 ];
 

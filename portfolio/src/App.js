@@ -5,7 +5,12 @@ import MySidebar from "./Side";
 function App() {
   return (
     <div className="App">
+
+      <div  className="nav">
+
+
       <MySidebar />
+      </div>
       <Portfolio />
     </div>
   );

@@ -14,8 +14,8 @@ function MySidebar() {
         // label="Menu"
       />
       <Sidebar   className="sidebar"  visible={visible} onHide={() => setVisible(false)}>
-        {/* <h2>Menu</h2> */}
-        <ul style={{ listStyle: "none", padding: 0 }}>
+        <h2>Menu</h2>
+        {/* <ul style={{ listStyle: "none", padding: 0 }}>
           <li>
             <a href="#home">Home</a>
           </li>
@@ -28,7 +28,7 @@ function MySidebar() {
           <li>
             <a href="#contact">Contact</a>
           </li>
-        </ul>
+        </ul> */}
       </Sidebar>
     </div>
   );

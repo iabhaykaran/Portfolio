@@ -4,6 +4,11 @@
   margin: 0;
 }
 
+.nav{
+
+  background-color: rgb(207, 207, 207);
+}
+
 .btn {
   padding: 10px 5px;
   color: rgb(0, 0, 0);
